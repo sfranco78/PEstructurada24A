@@ -1,0 +1,3 @@
+C:/Users/sfran/CLionProjects/Modular/cmake-build-debug/CMakeFiles/Modular.dir
+C:/Users/sfran/CLionProjects/Modular/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/sfran/CLionProjects/Modular/cmake-build-debug/CMakeFiles/rebuild_cache.dir
